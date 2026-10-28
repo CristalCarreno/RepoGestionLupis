@@ -1,0 +1,21 @@
+git init inicializa mi proyecto 
+git status  ==== es como el historial de mis commits 
+git add .  ======= 1.1 creacion de mis commits 
+git commit -m "feat(create): nuevo archiv creado"  =====1.2 complementacion de la creacion de mis commits 
+
+git commit -m "feat(create): cambio1"
+
+git log   =====este es para verificar lo que acabamos de hacer y cierta informacion, nos permite llevar el registro de lo que se esta haciendo 
+=== creacion del repositorio a traves de git hub 
+
+una vez creado el repositorio en github de manera manual  copiamos el comando que esta en git donde dice el pushy b=viene la ruta, osea este :
+git remote add origin https://github.com/CristalCarreno/RepoGestionLupis.git
+git branch -M main
+git push -u origin main
+
+git push -u origin cristal
+
+
+
+
+
